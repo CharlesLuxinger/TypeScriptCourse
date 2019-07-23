@@ -1,0 +1,9 @@
+--TypeScript
+
+-- Programas
+1. Node.js + NPM
+2. VisualStudio
+	> Extensões
+	2.1 vscode-icons
+	2.2 Angular v4 TypeScript Snipptes
+3. TypeScript: npm install -g typescript
