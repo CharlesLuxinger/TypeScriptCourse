@@ -7,3 +7,15 @@
 	2.1 vscode-icons
 	2.2 Angular v4 TypeScript Snipptes
 3. TypeScript: npm install -g typescript
+
+
+-- Construir compilador automâtico TS > JS
+
+1. Crie o arquivo “tsconfig.json” com o seguinte conteúdo:
+		{
+			"compilerOptions": {
+				"target": "es5",
+				"watch": true
+			}
+		}
+Para executar, você pode selecionar “Tasks > Run Tasks… > tsc: build tsconfig.json”.
