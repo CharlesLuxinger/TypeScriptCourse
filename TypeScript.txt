@@ -19,3 +19,6 @@
 			}
 		}
 Para executar, você pode selecionar “Tasks > Run Tasks… > tsc: build tsconfig.json”.
+
+4. Promises
+	> São executadas de forma assicrona. Quando acabar de ser executada o código é notificado.
