@@ -9,4 +9,4 @@ var Cliente = /** @class */ (function () {
     return Cliente;
 }());
 var joao = new Cliente('Charles', 31);
-console.log(joao.apresentar());
+console.log(joao.apresentar);
